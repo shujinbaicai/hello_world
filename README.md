@@ -1,2 +1,3 @@
-# hello_world
-a simple for repository
+# Hi,humans……
+I like javascript that what's I have made of.
+I hope everyone can contribute what your like.
